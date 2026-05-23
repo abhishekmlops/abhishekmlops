@@ -8,7 +8,7 @@
 
 ![Roadmap](https://img.shields.io/badge/Roadmap-Phase%201%20of%206%20Active-00FF88?style=for-the-badge&logo=target&logoColor=black)
 ![Week](https://img.shields.io/badge/Week-01%20of%2052-0A84FF?style=for-the-badge&logo=clockify&logoColor=white)
-![Target](https://img.shields.io/badge/Target-NVIDIA%20%7C%20Google%20%7C%20Microsoft-FF375F?style=for-the-badge&logo=nvidia&logoColor=white)
+![Role](https://img.shields.io/badge/Target%20Role-AI%2FML%20Engineer-FF375F?style=for-the-badge&logo=brain&logoColor=white)
 ![Graduation](https://img.shields.io/badge/Graduating-2027-FFD60A?style=for-the-badge&logoColor=black)
 
 </div>
@@ -24,7 +24,8 @@ class AbhishekPandey:
         self.role        = "CS Undergrad → AI/ML Engineer"
         self.graduation  = 2027
         self.location    = "India"
-        self.targets     = ["NVIDIA", "Google DeepMind", "Microsoft Research", "Meta AI"]
+        self.target_role = "ML Engineer / AI Research Engineer"
+        self.target_tier = "Top-tier AI labs, product companies & research orgs"
         self.approach    = "First Principles > Memorization. Depth > Breadth."
         self.rule        = "I don't move to the next topic until I can prove why it works."
 
@@ -40,23 +41,14 @@ class AbhishekPandey:
 
 ## 💫 About Me
 
-🔭 **Currently working on** &nbsp;→ `dsa-python-mastery` — implementing every data structure
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from scratch, zero libraries, full complexity analysis. Week 1 of 52.
-
-👯 **Looking to collaborate** &nbsp;→ Engineers who ask *"why does this work?"* before
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"how do I use this?" — builders, not tutorial-followers.
-
-🤝 **Looking for help with** &nbsp;&nbsp;→ Finding gaps in my understanding BEFORE they become
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugs in production. Point out what I'm wrong about.
-
-🌱 **Currently learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ Why arrays have O(1) access — the memory addressing
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;math, not magic. Phase 1 of 6. No shortcuts taken.
-
-💬 **Ask me about** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ What I learned THIS WEEK and exactly where I got stuck.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I only claim what I can prove from first principles.
-
-⚡ **Fun fact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ I read CLRS (MIT's algorithm bible) alongside LeetCode.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Most people do neither. I'm doing both — in the right order.
+| | |
+|:--|:--|
+| 🔭 **Working on** | `dsa-python-mastery` — every data structure built from scratch, zero libraries, full complexity analysis. Week 1 of 52. |
+| 👯 **Collaborate on** | Projects with engineers who ask *"why does this work?"* before *"how do I use this?"* — builders, not tutorial-followers. |
+| 🤝 **Looking for help with** | Finding gaps in my understanding BEFORE they become bugs. Point out what I'm wrong about — I'll update my mental model. |
+| 🌱 **Currently learning** | Why arrays have O(1) access — the memory addressing math, not magic. Phase 1 of 6. No shortcuts taken. |
+| 💬 **Ask me about** | What I learned THIS WEEK and exactly where I got stuck. I only claim what I can prove from first principles. |
+| ⚡ **Fun fact** | I read CLRS (MIT's algorithm bible) alongside LeetCode. Most people do neither. I'm doing both — in the right order. |
 
 ---
 
@@ -91,14 +83,14 @@ class AbhishekPandey:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Incoming — Phase 2+ (locked until earned):**
+**Incoming — Phase 2+ (unlocks when earned):**
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**Incoming — Phase 4+ (locked until earned):**
+**Incoming — Phase 4+ (unlocks when earned):**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -111,12 +103,12 @@ class AbhishekPandey:
 ## `> pinned_repos`
 
 | Repo | What & Why | Status |
-|------|-----------|--------|
-| [`dsa-python-mastery`](https://github.com/abhishekmlops/dsa-python-mastery) | Every structure built from scratch. No libraries. Full O(n) analysis. | 🟢 Active |
+|:-----|:-----------|:------:|
+| [`dsa-python-mastery`](https://github.com/abhishekmlops/dsa-python-mastery) | Every structure built from scratch. No libraries. Full complexity analysis. | 🟢 Active |
 | [`faang-interview-prep`](https://github.com/abhishekmlops/faang-interview-prep) | Patterns, traps, edge cases — documented every week | 🟡 Building |
 | [`ml-from-scratch`](https://github.com/abhishekmlops/ml-from-scratch) | ML algorithms without libraries first. Then with. | 🔒 Phase 3 |
 | [`deep-learning-fundamentals`](https://github.com/abhishekmlops/deep-learning-fundamentals) | Backprop, CNNs, Transformers — math + implementation | 🔒 Phase 4 |
-| [`ml-system-design`](https://github.com/abhishekmlops/ml-system-design) | Designing systems the way FAANG engineers think | 🔒 Phase 5 |
+| [`ml-system-design`](https://github.com/abhishekmlops/ml-system-design) | Designing systems the way senior ML engineers think | 🔒 Phase 5 |
 | [`research-notes`](https://github.com/abhishekmlops/research-notes) | Paper summaries in plain English — no jargon | 🟡 Building |
 
 ---
@@ -151,7 +143,7 @@ class AbhishekPandey:
 [![](https://komarev.com/ghpvc/?username=abhishekmlops&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhishekmlops)
 
 ```
-Last updated: Week 01 — Phase 1 Active
+Last updated : Week 01 — Phase 1 Active
 Current focus: Arrays + Big-O from first principles
 Next milestone: Implement LinkedList from scratch with full complexity proof
 ```
