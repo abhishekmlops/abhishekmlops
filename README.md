@@ -283,15 +283,12 @@ $ ./profile --verbose
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekmlops&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF94&icon_color=00C2FF&text_color=C9D1D9&border_color=00FF94&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekmlops&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8" height="180" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmlops&layout=compact&theme=transparent&bg_color=0D1117&title_color=00FF94&text_color=C9D1D9&border_color=00FF94&border_radius=8&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -301,13 +298,6 @@ $ ./profile --verbose
 <!--  SECTION 16 — TROPHIES                                  -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `$ cat trophies.json`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekmlops&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -357,21 +347,13 @@ $ ./profile --verbose
 <!--  SECTION 19 — SNAKE ANIMATION                           -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## `$ watch -n 1 snake --eat-commits`
+## 🐍 Contribution Graph
 
-<div align="center">
+This animation is generated automatically from my GitHub contribution graph and reflects my ongoing development activity.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> ⚙️ **To enable the snake:** Add a GitHub Actions workflow in `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for the 10-line setup.
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <!-- ████████████████████████████████████████████████████████ -->
 <!--  SECTION 20 — CURRENT FOCUS YAML                        -->
