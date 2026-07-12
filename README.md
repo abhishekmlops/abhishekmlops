@@ -1,202 +1,447 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hi+%F0%9F%91%8B+I'm+Abhishek+Pandey;CS+Student+%7C+AI%2FML+Engineer+in+Training;Learning+by+Building+and+Proving" alt="Typing SVG" />
-</a>
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 1 — ANIMATED BANNER                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0D1117,100,00FF94&height=120&section=header&text=Abhishek%20Pandey&fontSize=52&fontColor=00FF94&fontAlignY=55&desc=Backend%20Engineer%20%7C%20ML%20Aspirant%20%7C%20FAANG%20Candidate&descAlignY=80&descSize=16&descColor=00C2FF&animation=fadeIn" width="100%"/>
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 2 — TYPING SVG                                 -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=00FF94&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=%24+whoami+%E2%86%92+Backend+Engineer+%7C+ML+Aspirant+%7C+DSA+Grinder;%24+stack+%E2%86%92+Python+%7C+FastAPI+%7C+Django+%7C+PostgreSQL+%7C+AWS;%24+building+%E2%86%92+URL+Shortener+%2B+Advanced+Analytics+Engine;%24+target+%E2%86%92+Google+%7C+Microsoft+%7C+Amazon+%7C+Meta+%7C+NVIDIA;%24)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 3 — INFO BADGES ROW                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+![Degree](https://img.shields.io/badge/B.Tech-Computer%20Science-00FF94?style=flat-square&logo=graduation-cap&logoColor=0D1117&labelColor=0D1117&color=00FF94)
+![University](https://img.shields.io/badge/RGPV%20University-Bhopal%2C%20India-00C2FF?style=flat-square&logo=university&logoColor=0D1117&labelColor=0D1117&color=00C2FF)
+![Year](https://img.shields.io/badge/3rd%20Year-Graduating%202027-00FF94?style=flat-square&logo=calendar&logoColor=0D1117&labelColor=0D1117&color=00FF94)
+![Location](https://img.shields.io/badge/📍%20Bhopal-India-00C2FF?style=flat-square&labelColor=0D1117&color=00C2FF)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 4 — CTA BUTTONS                                -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF94?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117&color=00FF94)](https://www.linkedin.com/in/abhishek-pandey-8989373b5)
+[![GitHub](https://img.shields.io/badge/GitHub-@abhishekmlops-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117&color=00C2FF)](https://github.com/abhishekmlops)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-00FF94?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117&color=00FF94)](mailto:abhishekcs.it06@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00C2FF?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117&color=00C2FF)](https://leetcode.com/u/abhiit_06)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 5 — PROFILE STATS                              -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekmlops&color=00FF94&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/abhishekmlops?style=flat-square&color=00C2FF&labelColor=0D1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/abhishekmlops?style=flat-square&color=00FF94&labelColor=0D1117&label=TOTAL+STARS)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 6 — ABOUT / BIO                                -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat about.md`
+
+> Backend-focused engineer and ML aspirant at RGPV University (B.Tech CSE, 2027), actively building production-grade distributed systems with Python, FastAPI, and AWS. Grinding DSA daily toward FAANG-level problem solving — currently sharpening Trees, and shipping a URL Shortener with Kafka-backed analytics in parallel.
+
+```bash
+$ ./profile --verbose
+
+  ROLE       →  Backend Engineer | ML Engineer Aspirant
+  EXP        →  3rd Year B.Tech CSE | Graduating 2027
+  DOMAIN     →  Distributed Systems | Backend Engineering | ML Ops
+  STACK      →  Python · FastAPI · Django · PostgreSQL · Docker · AWS · Kafka
+  DSA        →  Intermediate · LeetCode: abhiit_06 · Language: Python
+  OPEN_TO    →  SDE Intern · Backend Intern · ML Engineer Intern · Full-time SWE 2027
+  STATUS     →  🟢 Actively interviewing — FAANG + Top Product Companies
+```
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 7 — TECH STACK ICONS                           -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ ls tech-stack/`
+
+**Languages**
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,js&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Frameworks & APIs**
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,django&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Databases**
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**DevOps & Infrastructure**
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,nginx,aws&theme=dark)](https://skillicons.dev)
+
+</div>
+
+**Tools & Workflow**
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,bash&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 8 — SPECIALTY BADGES                           -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat specializations.txt`
+
+<div align="center">
+
+![Backend Engineering](https://img.shields.io/badge/⚙️%20Backend%20Engineering-REST%20%7C%20FastAPI%20%7C%20Django-00FF94?style=for-the-badge&labelColor=0D1117)
+![Distributed Systems](https://img.shields.io/badge/🔀%20Distributed%20Systems-Kafka%20%7C%20Docker%20%7C%20AWS-00C2FF?style=for-the-badge&labelColor=0D1117)
+![DSA Grind](https://img.shields.io/badge/🧠%20DSA%20%26%20Algorithms-Python%20%7C%20LeetCode-00FF94?style=for-the-badge&labelColor=0D1117)
+![ML Engineering](https://img.shields.io/badge/🤖%20ML%20Engineering-Aspiring%20%7C%20Actively%20Learning-00C2FF?style=for-the-badge&labelColor=0D1117)
+![Cloud](https://img.shields.io/badge/☁️%20Cloud%20%26%20DevOps-AWS%20%7C%20Linux%20%7C%20Nginx-00FF94?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 9 — EXPERTISE TABLE                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat expertise.json`
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| 🐍 Python | ████████░░ Advanced | FastAPI · Django · scripting · OOP · async |
+| 🗄️ Databases | ███████░░░ Intermediate | PostgreSQL · SQL · schema design · indexing |
+| 🔀 Distributed Systems | ██████░░░░ Intermediate | Kafka · Docker · async queues · microservices |
+| ☁️ Cloud / DevOps | ██████░░░░ Intermediate | AWS · Linux · Nginx · CI basics · Docker Compose |
+| 🧠 DSA | ██████░░░░ Intermediate | Arrays · Lists · Stacks · Queues · Hash Maps · Trees |
+| 🔐 Auth & Security | █████░░░░░ Growing | JWT · OAuth2 · token flows · secure API design |
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 10 — FEATURED PROJECTS                         -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ ls projects/ --detail`
+
+<details open>
+<summary><strong>🔗 URL Shortener + Advanced Analytics Engine</strong> &nbsp;·&nbsp; <code>In Progress</code></summary>
 
 <br/>
 
-![Roadmap](https://img.shields.io/badge/Roadmap-Phase%201%20of%206%20Active-00FF88?style=for-the-badge&logo=target&logoColor=black)
-![Week](https://img.shields.io/badge/Week-01%20of%2052-0A84FF?style=for-the-badge&logo=clockify&logoColor=white)
-![Role](https://img.shields.io/badge/Target%20Role-AI%2FML%20Engineer-FF375F?style=for-the-badge&logo=brain&logoColor=white)
-![Graduation](https://img.shields.io/badge/Graduating-2027-FFD60A?style=for-the-badge&logoColor=black)
+> A production-grade URL shortening service with Kafka-backed real-time analytics, JWT/OAuth2 authentication, and full containerized deployment on AWS.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python · FastAPI · PostgreSQL · Apache Kafka · Docker · AWS · JWT · OAuth2 · Nginx |
+| **Architecture** | Microservices · Event-driven · REST API · Async Processing |
+| **Scale Target** | Horizontal scalability via Docker Compose + AWS ECS |
+| **Key Features** | Short URL generation · Click analytics · Auth flows · Kafka event stream · Real-time dashboard |
+| **My Role** | Solo architect + full-stack builder (backend, infra, auth, analytics) |
+| **Status** | 🔨 Actively building |
+
+</details>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 11 — EXPERIENCE LOG                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat experience.log`
+
+```
+[2024–Present]  Self-Directed Engineering — FAANG Preparation Track
+```
+
+- Designing and shipping production-grade backend systems independently using FastAPI, PostgreSQL, Kafka, and AWS
+- Solving DSA problems daily on LeetCode (`abhiit_06`) — focus on Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees
+- Mastering Python for software engineering, backend systems, and ML pipelines
+- Studying system design, distributed systems, and computer science fundamentals from first principles
+- Pursuing certifications in Generative AI and Claude Code to build an edge in ML + tooling interviews
+
+`Tags:` ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=00FF94) ![FastAPI](https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF94) ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00C2FF) ![DSA](https://img.shields.io/badge/-DSA-0D1117?style=flat-square&logoColor=00FF94) ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=00C2FF)
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 12 — ACHIEVEMENTS TABLE                        -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat achievements.md`
+
+<div align="center">
+
+| 🏆 Achievement | Details |
+|---|---|
+| 🤖 Oracle Certified Generative AI Professional | Earned — Oracle Cloud AI Certification |
+| 🛠️ Certified Claude Code Professional | Earned — Anthropic Claude Code Certification |
+| 🔨 Production System Builder | Built URL Shortener + Kafka Analytics as a solo 3rd-year student |
+| 🧠 DSA Intermediate | Active LeetCode grinder — Arrays · Stacks · Trees in progress |
+| 🚀 FAANG Prep Track | Self-directed, structured interview preparation — targeting 2025/2027 |
 
 </div>
 
 ---
 
-## `> whoami`
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 13 — EDUCATION BADGE                           -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-```python
-class AbhishekPandey:
-    def __init__(self):
-        self.name        = "Abhishek Pandey"
-        self.role        = "CS Undergrad → AI/ML Engineer"
-        self.graduation  = 2027
-        self.location    = "India"
-        self.target_role = "ML Engineer / AI Research Engineer"
-        self.target_tier = "Top-tier AI labs, product companies & research orgs"
-        self.approach    = "First Principles > Memorization. Depth > Breadth."
-        self.rule        = "I don't move to the next topic until I can prove why it works."
-
-    def current_mission(self) -> str:
-        return """
-        Building from zero to top 1% AI/ML Engineer on a 52-week roadmap.
-        Not following tutorials. Understanding WHY things work — then building them.
-        Every week is documented. Every concept is proved before it's used.
-        """
-```
-
----
-
-## 💫 About Me
-
-| | |
-|:--|:--|
-| 🔭 **Working on** | `dsa-python-mastery` — every data structure built from scratch, zero libraries, full complexity analysis. |
-| 👯 **Collaborate on** | Projects with engineers who ask *"why does this work?"* before *"how do I use this?"* — builders, not tutorial-followers. |
-| 🤝 **Looking for help with** | Finding gaps in my understanding BEFORE they become bugs. Point out what I'm wrong about — I'll update my mental model. |
-| 🌱 **Currently learning** | Two-pointer and sliding window patterns — not just solving, proving why the window shrinks. |
-| 💬 **Ask me about** | What I learned THIS WEEK and exactly where I got stuck. I only claim what I can prove from first principles. |
-| ⚡ **Fun fact** | I read CLRS alongside LeetCode. Most people do neither. I'm doing both — in the right order. |
-
----
-
-## ✅ What I've Actually Built
-
-> No locked repos counted. No future promises. Only what exists and runs.
-
-```
-SHIPPED — Week 01
-────────────────────────────────────────────────────────────────
-  ✓  Dynamic Array       built from scratch · O(1) amortized push proved
-  ✓  Stack               implemented on top of dynamic array · full analysis
-  ✓  CLI Expense Tracker Python · file I/O · clean OOP design · runs today
-  ✓  50 DSA Problems     Easy → Medium · patterns documented per problem
-────────────────────────────────────────────────────────────────
-```
-
----
-
-## 📊 Current Learning Dashboard
-
-```
-CURRENT FOCUS — Phase 1: Python + DSA
-──────────────────────────────────────────────────────────────────
-
-  Python          █████████░  90%   OOP · complexity reasoning · clean code
-  DSA             ████████░░  80%   Arrays ✓  Stacks ✓  Two Pointers (active)
-  Git             ███████░░░  70%   Daily commits · branching · clean history
-  Math for ML     ███░░░░░░░  30%   Big-O proofs · recurrence relations
-
-  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
-
-  Machine Learning    ░░░░░░░░░░   0%   Locked — unlocks Phase 3
-  Deep Learning       ░░░░░░░░░░   0%   Locked — unlocks Phase 4
-  ML Systems          ░░░░░░░░░░   0%   Locked — unlocks Phase 5
-
-──────────────────────────────────────────────────────────────────
-  Rule: A bar only moves when I can explain the concept from first principles.
-```
-
----
-
-## 🧭 Roadmap Status
-
-```
-52-WEEK AI/ML ENGINEERING ROADMAP
-══════════════════════════════════════════════════════════════════════
-
-  PHASE 1  ██████████░░░░░░░░░░░░░░  [● ACTIVE]   Python + DSA            Weeks 01–10
-  PHASE 2  ░░░░░░░░░░░░░░░░░░░░░░░░  [  LOCKED]   Advanced DSA + Math     Weeks 11–18
-  PHASE 3  ░░░░░░░░░░░░░░░░░░░░░░░░  [  LOCKED]   Core ML                 Weeks 19–26
-  PHASE 4  ░░░░░░░░░░░░░░░░░░░░░░░░  [  LOCKED]   Deep Learning           Weeks 27–36
-  PHASE 5  ░░░░░░░░░░░░░░░░░░░░░░░░  [  LOCKED]   ML Systems + MLOps      Weeks 37–44
-  PHASE 6  ░░░░░░░░░░░░░░░░░░░░░░░░  [  LOCKED]   Projects + Interview     Weeks 45–52
-
-══════════════════════════════════════════════════════════════════════
-  Rule: A phase unlocks only when the previous one is truly mastered.
-  Not by calendar. By proof.
-```
-
----
-
-## 🔩 Engineering Principles
-
-```
-──────────────────────────────────────────────────────────────────
-  ENGINEERING PRINCIPLES
-
-  1. Understand before memorizing.
-  2. Build before optimizing.
-  3. Measure before claiming.
-  4. Explain before moving on.
-  5. If I cannot derive it, I do not know it.
-──────────────────────────────────────────────────────────────────
-```
-
----
-
-## 💻 Tech Stack
-
-> I only list what I can defend line-by-line in an interview.
-
-**Currently solid:**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Incoming — Phase 2+ (unlocks when earned):**
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-**Incoming — Phase 4+ (unlocks when earned):**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-
----
-
-## `> pinned_repos`
-
-> Only what exists. New repos are created when the phase begins — not before.
-
-| Repo | What & Why | Status |
-|:-----|:-----------|:------:|
-| [`dsa-python-mastery`](https://github.com/abhishekmlops/dsa-python-mastery) | Every structure built from scratch. No libraries. Full complexity analysis. | 🟢 Active |
-| [`faang-interview-prep`](https://github.com/abhishekmlops/faang-interview-prep) | Patterns, traps, edge cases — documented every week | 🟡 Building |
-| [`research-notes`](https://github.com/abhishekmlops/research-notes) | Paper summaries in plain English — no jargon | 🟡 Building |
-
----
-
-## 📈 GitHub Stats
+## `$ cat education.txt`
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=abhishekmlops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=00FF88&icon_color=00FF88)
+![Education](https://img.shields.io/badge/B.Tech%20Computer%20Science-RGPV%20University%20%7C%202027-00FF94?style=for-the-badge&logo=graduation-cap&logoColor=0D1117&labelColor=0D1117)
 
-![](https://streak-stats.demolab.com/?user=abhishekmlops&theme=dark&hide_border=false&ring=00FF88&fire=FF375F&currStreakLabel=00FF88)
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmlops&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=00FF88)
+| Field | Details |
+|---|---|
+| 🎓 Degree | Bachelor of Technology — Computer Science & Engineering |
+| 🏛️ University | Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal |
+| 📅 Duration | 2023 – 2027 |
+| 📍 Location | Bhopal, Madhya Pradesh, India |
+| 🎯 Focus Areas | Software Engineering · Algorithms · Distributed Systems · ML |
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 14 — CODING PROFILES                           -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat coding-profiles.sh`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00FF94?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/abhiit_06)
+
+</div>
+
+> 🧠 **Current Focus:** Trees · Binary Search · Recursion &nbsp;|&nbsp; **Language:** Python &nbsp;|&nbsp; **Level:** Intermediate &nbsp;|&nbsp; **Next Milestone:** 200 problems solved
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 15 — GITHUB ANALYTICS                          -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekmlops&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00FF94&icon_color=00C2FF&text_color=C9D1D9&border_color=00FF94&border_radius=8&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekmlops&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8" height="180" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmlops&layout=compact&theme=transparent&bg_color=0D1117&title_color=00FF94&text_color=C9D1D9&border_color=00FF94&border_radius=8&langs_count=8" height="160" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🌐 Connect
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 16 — TROPHIES                                  -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-pandey-8989373b5)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abhishekpandey.06)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekcs.it06@gmail.com)
-
----
+## `$ cat trophies.json`
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=abhishekmlops&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/abhishekmlops)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekmlops&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 17 — ACTIVITY GRAPH                            -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ git graph --activity`
+
+<div align="center">
+
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekmlops&bg_color=0D1117&color=00FF94&line=00C2FF&point=00FF94&area=true&area_color=00FF9420&hide_border=false&border_color=00FF94&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 18 — SUMMARY CARDS                             -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ profile-details --full`
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekmlops&theme=transparent&utcOffset=+5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 19 — SNAKE ANIMATION                           -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ watch -n 1 snake --eat-commits`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> ⚙️ **To enable the snake:** Add a GitHub Actions workflow in `.github/workflows/snake.yml` — see [Platane/snk](https://github.com/Platane/snk) for the 10-line setup.
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 20 — CURRENT FOCUS YAML                        -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ cat current-focus.yaml`
+
+```yaml
+current_focus:
+  building:
+    - "URL Shortener + Advanced Analytics Engine (FastAPI · Kafka · PostgreSQL · AWS)"
+    - "FAANG-grade backend system design and architecture patterns"
+
+  learning:
+    - "Data Structures & Algorithms — currently: Trees → Binary Search → Recursion"
+    - "Python for Software Engineering and Machine Learning pipelines"
+    - "System Design fundamentals — scalability, caching, distributed consensus"
+    - "Git, GitHub, Linux, and production DevOps workflows"
+
+  grinding:
+    - "LeetCode daily — handle: abhiit_06"
+    - "Computer Science fundamentals from first principles"
+    - "Software Engineering interview preparation"
+
+  exploring:
+    - "Machine Learning Engineering — MLOps and model deployment"
+    - "Cloud-native architectures on AWS"
+    - "Apache Kafka and event-driven system design"
+
+  open_to:
+    - "SDE Internship (2025)"
+    - "Backend Engineering Internship"
+    - "ML Engineer Internship"
+    - "Full-time SWE / Backend / ML roles (2027)"
+
+  target_companies:
+    - "Google · Microsoft · Amazon · Meta · Apple"
+    - "NVIDIA · Uber · Airbnb · Stripe · Netflix"
+    - "Adobe · Salesforce · Atlassian · Databricks"
 ```
-Last updated  : Week 01 — Phase 1 Active
-Current focus : Arrays · Stacks · Two Pointers
-Next milestone: Implement LinkedList from scratch with full complexity proof
-```
+
+---
+
+<!-- ████████████████████████████████████████████████████████ -->
+<!--  SECTION 21 — CONNECT + FOOTER                          -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+## `$ curl --connect abhishek`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-00FF94?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/abhishek-pandey-8989373b5)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekmlops-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/abhishekmlops)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00FF94?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/abhiit_06)
+[![Email](https://img.shields.io/badge/Email-abhishekcs.it06@gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:abhishekcs.it06@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*`"Build systems that scale. Write code that lasts. Solve problems that matter."`*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0,0D1117,100,00FF94&height=80&section=footer&reversal=false" width="100%"/>
 
 </div>
