@@ -362,34 +362,34 @@ This animation is generated automatically from my GitHub contribution graph and 
 ## `$ cat current-focus.yaml`
 
 ```yaml
-current_focus:
-  building:
+Current_focus:
+  Building:
     - "URL Shortener + Advanced Analytics Engine (FastAPI · Kafka · PostgreSQL · AWS)"
     - "FAANG-grade backend system design and architecture patterns"
 
-  learning:
+  Learning:
     - "Data Structures & Algorithms — currently: Trees → Binary Search → Recursion"
     - "Python for Software Engineering and Machine Learning pipelines"
     - "System Design fundamentals — scalability, caching, distributed consensus"
     - "Git, GitHub, Linux, and production DevOps workflows"
 
-  grinding:
+  Grinding:
     - "LeetCode daily — handle: abhiit_06"
     - "Computer Science fundamentals from first principles"
     - "Software Engineering interview preparation"
 
-  exploring:
+  Exploring:
     - "Machine Learning Engineering — MLOps and model deployment"
     - "Cloud-native architectures on AWS"
     - "Apache Kafka and event-driven system design"
 
-  open_to:
-    - "SDE Internship (2025)"
+  Open_to:
+    - "SDE Internship (2026)"
     - "Backend Engineering Internship"
     - "ML Engineer Internship"
     - "Full-time SWE / Backend / ML roles (2027)"
 
-  target_companies:
+  Target_companies:
     - "Google · Microsoft · Amazon · Meta · Apple"
     - "NVIDIA · Uber · Airbnb · Stripe · Netflix"
     - "Adobe · Salesforce · Atlassian · Databricks"
