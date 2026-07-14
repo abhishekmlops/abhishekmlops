@@ -406,7 +406,7 @@ Current_focus:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-00FF94?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/abhishek-pandey-8989373b5)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekmlops-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/abhishekmlops)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekpandey-swe-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/abhishekmlops)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00FF94?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/abhiit_06)
 [![Email](https://img.shields.io/badge/Email-abhishekcs.it06@gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:abhishekcs.it06@gmail.com)
 
