@@ -44,7 +44,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FF94?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117&color=00FF94)](https://www.linkedin.com/in/abhishek-pandey-8989373b5)
-[![GitHub](https://img.shields.io/badge/GitHub-@abhishekmlops-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117&color=00C2FF)](https://github.com/abhishekmlops)
+[![GitHub](https://img.shields.io/badge/GitHub-@abhishekpandey--swe-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117&color=00C2FF)](https://github.com/abhishekmlops)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-00FF94?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117&color=00FF94)](mailto:abhishekcs.it06@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00C2FF?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117&color=00C2FF)](https://leetcode.com/u/abhiit_06)
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekmlops&color=00FF94&style=flat-square&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/abhishekmlops?style=flat-square&color=00C2FF&labelColor=0D1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/abhishekmlops?style=flat-square&color=00FF94&labelColor=0D1117&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekpandey-swe&color=00FF94&style=flat-square&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/abhishekpandey-swe?style=flat-square&color=00C2FF&labelColor=0D1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/abhishekpandey-swe?style=flat-square&color=00FF94&labelColor=0D1117&label=TOTAL+STARS)
 
 </div>
 
@@ -283,7 +283,7 @@ $ ./profile --verbose
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhishekmlops&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8&date_format=j%20M%5B%2C%20Y%5D&cache_seconds=3600" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abhishekpandey-swe&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8&date_format=j%20M%5B%2C%20Y%5D&cache_seconds=3600" height="180" alt="GitHub Streak"/>
 
 </div>
 
@@ -323,21 +323,21 @@ $ ./profile --verbose
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekpandey-swe&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishekpandey-swe&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishekpandey-swe&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekmlops&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekmlops&theme=transparent&utcOffset=+5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishekpandey-swe&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishekpandey-swe&theme=transparent&utcOffset=+5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -352,7 +352,7 @@ $ ./profile --verbose
 This animation is generated automatically from my GitHub contribution graph and reflects my ongoing development activity.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishekmlops/abhishekmlops/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/abhishekpandey-swe/abhishekpandey-swe/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <!-- ████████████████████████████████████████████████████████ -->
@@ -406,7 +406,7 @@ Current_focus:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-00FF94?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/abhishek-pandey-8989373b5)
-[![GitHub](https://img.shields.io/badge/GitHub-abhishekpandey-swe-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/abhishekpandey-swe)
+[![GitHub](https://img.shields.io/badge/GitHub-abhishekpandey--swe-00C2FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/abhishekpandey-swe)
 [![LeetCode](https://img.shields.io/badge/LeetCode-abhiit__06-00FF94?style=for-the-badge&logo=leetcode&logoColor=0D1117&labelColor=0D1117)](https://leetcode.com/u/abhiit_06)
 [![Email](https://img.shields.io/badge/Email-abhishekcs.it06@gmail.com-00C2FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:abhishekcs.it06@gmail.com)
 
