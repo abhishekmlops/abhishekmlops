@@ -283,7 +283,7 @@ $ ./profile --verbose
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekmlops&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=abhishekmlops&theme=transparent&background=0D1117&ring=00FF94&fire=FF4757&currStreakLabel=00FF94&sideLabels=00C2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border=00FF94&border_radius=8&date_format=j%20M%5B%2C%20Y%5D&cache_seconds=3600" height="180" alt="GitHub Streak"/>
 
 </div>
 
